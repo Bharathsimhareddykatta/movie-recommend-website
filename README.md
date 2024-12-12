@@ -1,6 +1,4 @@
-Here's a well-structured `README.md` template for your project, which you can customize further based on your needs:
 
----
 
 # Movie Recommendation System
 
@@ -81,6 +79,8 @@ The application should now be running locally on `http://localhost:8501`.
 ## Example
 
 ![Movie Recommendations Example](assets/your_image.png)
+![Screenshot 2024-12-13 003912](https://github.com/user-attachments/assets/b6732bfa-72da-4f54-bf9e-86b8a9b7ba2e)
+
 
 ## Contributing
 
