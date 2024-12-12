@@ -93,10 +93,6 @@ Feel free to fork this repository and submit pull requests. Contributions are al
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [TMDb API](https://www.themoviedb.org/) for providing movie data.
